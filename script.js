@@ -1,4 +1,4 @@
 function showMessage() {
     document.getElementById("message").textContent =
-        "Webページを見てくれてありがとうございます！";
+        "ここまで見てくれてありがとう！";
 }
