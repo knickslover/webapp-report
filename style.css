@@ -24,6 +24,9 @@ button {
     padding: 10px 20px;
     border-radius: 8px;
     cursor: pointer;
+
+    display: block;
+    margin: 0 auto;
 }
 
 button:hover {
@@ -39,5 +42,6 @@ button:hover {
 .degu-image {
     width: 200px;
     border-radius: 10px;
-    margin-bottom: 20px;
+    margin: 0 auto 20px;
+    display: block;
 }
