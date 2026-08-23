@@ -35,3 +35,9 @@ button:hover {
     font-weight: bold;
     margin-top: 20px;
 }
+
+.degu-image {
+    width: 200px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
