@@ -1,0 +1,37 @@
+body {
+    background-color: #7FFFD4;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.profile {
+    background-color: white;
+    width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px #aaa;
+}
+
+h1 {
+    color: #3498db;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #217dbb;
+}
+
+#message {
+    color: #e67e22;
+    font-weight: bold;
+    margin-top: 20px;
+}
